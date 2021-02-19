@@ -11,7 +11,8 @@
 !/tmp/cache/views/empty
 /tmp/sessions/*
 !/tmp/sessions/empty
-/tmp/tests/*
+/tmp/tests/*rem tiki
+
 !/tmp/tests/empty
 
 /logs/*
@@ -23,3 +24,4 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+bk 
